@@ -12,5 +12,8 @@ public class Records {
 
     public static void main(String[] args) {
         
+        System.out.println("Hola");
     }}
         // Clase que representa un Producto en la tienda
+
+      
